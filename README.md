@@ -27,8 +27,8 @@ More tools and frameworks to be added as I grow.
 - Deploy sites using GitHub Pages / Netlify
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-username)
-- [GitHub Profile](https://github.com/your-username)
+- [LinkedIn](https://www.linkedin.com/in/parth-londhe-057207343/)
+
 
 Thanks for checking out my work! 🙌
 
