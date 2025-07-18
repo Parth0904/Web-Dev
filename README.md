@@ -1,30 +1,34 @@
-# 👋 Hi, I'm Parth Londhe
+# 💻 Web Development Projects
 
-🚀 An 18-year-old self-taught developer with a passion for **Web Development** and a long-term mission to build an **AI-powered Cybersecurity App**.
+Welcome to my Web Development showcase repository. This is where I document my journey of learning, building, and delivering real-world projects — including personal work and freelance client projects.
 
-### 👨‍💻 What I'm Doing:
-- Learning full-stack Web Development (currently focused on **HTML**, **CSS**, and **JavaScript**)
-- Taking on **freelance projects** to sharpen real-world skills
-- Building a strong foundation in **Cybersecurity**
-- Actively sharing progress and updates on [LinkedIn](https://www.linkedin.com/)
+## 📌 About Me
+I'm an aspiring developer with a strong interest in both **Web Development** and **Cybersecurity**. I'm currently focused on mastering front-end skills, taking up freelance projects, and learning by building real websites from scratch.
 
-### 🛠️ Tech Stack:
-- HTML, CSS (in progress)
-- JavaScript (upcoming)
-- Git & GitHub for version control
+## 🧠 Skills So Far
+- HTML ✅
+- CSS (In Progress) ⚙️
+- JavaScript (Upcoming) 📍
 
-### 📁 Repositories:
-- `Web-Dev/` → All my completed client work and personal projects
-- `my-learnings` (branch) → Daily learning progress, mini projects, practice files
+More tools and frameworks to be added as I grow.
 
-### 🧠 Future Goals:
-- Become a skilled full-stack developer
-- Build open-source tools that solve real problems
-- Launch a cybersecurity startup
+## 📂 Projects in This Repo
+| Project Name           | Description                                     | Status     |
+|------------------------|--------------------------------------------------|------------|
+| Personal Portfolio     | My own developer portfolio site                 | In Progress ⚙️ |
+| Responsive Navbar      | A reusable mobile-friendly navbar component     | In Progress ⚙️ |
+| Client Landing Page    | A real project made for a client                | In Progress ⚙️ |
 
----
+> Each project has its own folder inside this repo with the full source code and a README file explaining what it does.
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/)  
-🌐 Personal Portfolio: *Coming Soon*
+## 🚀 Goals
+- Build 10+ real projects (client + personal)
+- Learn Git, JavaScript, and responsive design
+- Deploy sites using GitHub Pages / Netlify
 
+## 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/your-username)
+- [GitHub Profile](https://github.com/your-username)
+
+Thanks for checking out my work! 🙌
 
